@@ -183,9 +183,10 @@ projeck_uts_trisakti/
 
 ## 👤 Developer
 
-**Nama:** Raditya  
-**Mata Kuliah:** Pemrograman Web  
-**Institusi:** Universitas Trisakti  
+**Nama:** Raditya Meyka Harry Sandhiva
+**Mata Kuliah:** Framework Programming
+**Institusi:** Politeknik Negeri Jakarta
+
 
 ---
 
