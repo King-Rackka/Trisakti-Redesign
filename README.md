@@ -1,7 +1,6 @@
 # 🎓 Trisakti Redesign — Web Kampus Universitas Trisakti
 
-Redesign website kampus Universitas Trisakti menggunakan CodeIgniter 4, sebagai project UTS mata kuliah Pemrograman Web.
-
+Redesign website kampus Universitas Trisakti menggunakan CodeIgniter 4, sebagai project UTS mata kuliah Framework Programming.      
 ---
 
 ## 🌐 Demo
