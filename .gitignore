@@ -1,18 +1,25 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!system/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
-
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
-
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
+# Dependencies
 /vendor/
+
+# Environment
+.env
+
+# Writable directory
+/writable/logs/
+/writable/cache/
+/writable/uploads/
+/writable/session/
+/writable/debugbar/
+
+# Assets upload (gambar yang diupload user)
+/public/assets/news/
+/public/assets/alumni/
+/public/assets/agenda/
+/public/assets/dekan/
+/public/assets/fakultas/
+/public/assets/kaprodi/
+/public/assets/prodi/
+
+# OS files
+.DS_Store
+Thumbs.db
